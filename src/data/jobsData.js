@@ -1,0 +1,80 @@
+export const initialJobs = [
+  {
+    id: "nhr-101",
+    title: "Senior Telecalling Officer - BFSI",
+    company: "Top Private Banking Partner",
+    category: "bfsi",
+    type: "Full Time",
+    experience: "1 - 4 Years",
+    location: "Ahmedabad, Gujarat",
+    salary: "₹3.5 - 5.5 LPA",
+    tags: ["Banking", "Sales", "Inbound/Outbound"],
+    posted: "Just now",
+    description: "Looking for energetic BFSI professionals with strong verbal communication skills to manage customer portfolios, loan inquiries, and financial product consultations."
+  },
+  {
+    id: "nhr-102",
+    title: "Full Stack Java Developer",
+    company: "Fintech SaaS Global",
+    category: "it",
+    type: "Hybrid / Full Time",
+    experience: "3 - 6 Years",
+    location: "Bangalore / Remote",
+    salary: "₹14 - 22 LPA",
+    tags: ["Java", "Spring Boot", "React", "Microservices"],
+    posted: "1 day ago",
+    description: "Develop enterprise-grade core banking and payment processing microservices using modern Java stack and cloud infrastructure."
+  },
+  {
+    id: "nhr-103",
+    title: "Relationship Manager - Wealth Management",
+    company: "Leading AMC & Broking Firm",
+    category: "finance",
+    type: "Full Time",
+    experience: "2 - 5 Years",
+    location: "Mumbai, Maharashtra",
+    salary: "₹8 - 14 LPA + Incentives",
+    tags: ["HNIs", "Mutual Funds", "Portfolio Management"],
+    posted: "2 days ago",
+    description: "Acquire and manage high-net-worth individual (HNI) portfolios, providing wealth advisory, portfolio rebalancing, and tax-efficient investment products."
+  },
+  {
+    id: "nhr-104",
+    title: "Human Resources Generalist & Talent Partner",
+    company: "Rapidly Growing E-Commerce Firm",
+    category: "hr",
+    type: "Full Time",
+    experience: "2 - 4 Years",
+    location: "Surat, Gujarat",
+    salary: "₹4.5 - 7.5 LPA",
+    tags: ["Recruitment", "HR Operations", "Payroll"],
+    posted: "3 days ago",
+    description: "Drive end-to-end recruitment lifecycle, employee engagement, performance appraisals, onboarding, and statutory payroll compliance."
+  },
+  {
+    id: "nhr-105",
+    title: "Area Sales Manager - Consumer Durables",
+    company: "Tier-1 Manufacturing Brand",
+    category: "sales",
+    type: "Full Time",
+    experience: "4 - 8 Years",
+    location: "Vadodara / Rajkot",
+    salary: "₹9 - 15 LPA",
+    tags: ["Channel Sales", "Distributor Network", "B2C"],
+    posted: "3 days ago",
+    description: "Manage dealer and distribution networks across West India, expand market share, and lead a team of 15+ frontline sales executives."
+  },
+  {
+    id: "nhr-106",
+    title: "Lead Cloud Security Architect",
+    company: "Global Fintech Partner",
+    category: "it",
+    type: "Full Time",
+    experience: "5 - 9 Years",
+    location: "Ahmedabad / Remote",
+    salary: "₹22 - 32 LPA",
+    tags: ["AWS", "Security", "ISO27001"],
+    posted: "Just now",
+    description: "Lead enterprise cloud compliance, vulnerability audits, and AWS IAM policies."
+  }
+];

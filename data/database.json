@@ -1,0 +1,232 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "nirvana@2026",
+    "name": "Nirvana Administrator"
+  },
+  "jobs": [
+    {
+      "id": "nhr-8272",
+      "title": "Lead Cloud Security Architect",
+      "company": "Global Fintech Partner",
+      "category": "it",
+      "type": "Full Time",
+      "experience": "5 - 9 Years",
+      "location": "Ahmedabad / Remote",
+      "salary": "22 - 32 LPA",
+      "tags": [
+        "AWS",
+        "Security",
+        "ISO27001"
+      ],
+      "posted": "Just now",
+      "description": "Lead enterprise cloud compliance, vulnerability audits, and AWS IAM policies.",
+      "createdAt": "2026-08-21T13:10:48.284Z"
+    },
+    {
+      "id": "nhr-101",
+      "title": "Senior Telecalling Officer - BFSI",
+      "company": "Top Private Banking Partner",
+      "category": "bfsi",
+      "type": "Full Time",
+      "experience": "1 - 4 Years",
+      "location": "Ahmedabad, Gujarat",
+      "salary": "₹3.5 - 5.5 LPA",
+      "tags": [
+        "Banking",
+        "Sales",
+        "Inbound/Outbound"
+      ],
+      "posted": "Just now",
+      "description": "Looking for energetic BFSI professionals with strong verbal communication skills to manage customer portfolios, loan inquiries, and financial product consultations.",
+      "createdAt": "2026-08-21T10:00:00.000Z"
+    },
+    {
+      "id": "nhr-102",
+      "title": "Full Stack Java Developer",
+      "company": "Fintech SaaS Global",
+      "category": "it",
+      "type": "Hybrid / Full Time",
+      "experience": "3 - 6 Years",
+      "location": "Bangalore / Remote",
+      "salary": "₹14 - 22 LPA",
+      "tags": [
+        "Java",
+        "Spring Boot",
+        "React",
+        "Microservices"
+      ],
+      "posted": "1 day ago",
+      "description": "Develop enterprise-grade core banking and payment processing microservices using modern Java stack and cloud infrastructure.",
+      "createdAt": "2026-08-20T10:00:00.000Z"
+    },
+    {
+      "id": "nhr-103",
+      "title": "Relationship Manager - Wealth Management",
+      "company": "Leading AMC & Broking Firm",
+      "category": "finance",
+      "type": "Full Time",
+      "experience": "2 - 5 Years",
+      "location": "Mumbai, Maharashtra",
+      "salary": "₹8 - 14 LPA + Incentives",
+      "tags": [
+        "HNIs",
+        "Mutual Funds",
+        "Portfolio Management"
+      ],
+      "posted": "2 days ago",
+      "description": "Acquire and manage high-net-worth individual (HNI) portfolios, providing wealth advisory, portfolio rebalancing, and tax-efficient investment products.",
+      "createdAt": "2026-08-19T10:00:00.000Z"
+    },
+    {
+      "id": "nhr-104",
+      "title": "Human Resources Generalist & Talent Partner",
+      "company": "Rapidly Growing E-Commerce Firm",
+      "category": "hr",
+      "type": "Full Time",
+      "experience": "2 - 4 Years",
+      "location": "Surat, Gujarat",
+      "salary": "₹4.5 - 7.5 LPA",
+      "tags": [
+        "Recruitment",
+        "HR Operations",
+        "Payroll"
+      ],
+      "posted": "3 days ago",
+      "description": "Drive end-to-end recruitment lifecycle, employee engagement, performance appraisals, onboarding, and statutory payroll compliance.",
+      "createdAt": "2026-08-18T10:00:00.000Z"
+    },
+    {
+      "id": "nhr-105",
+      "title": "Area Sales Manager - Consumer Durables",
+      "company": "Tier-1 Manufacturing Brand",
+      "category": "sales",
+      "type": "Full Time",
+      "experience": "4 - 8 Years",
+      "location": "Vadodara / Rajkot",
+      "salary": "₹9 - 15 LPA",
+      "tags": [
+        "Channel Sales",
+        "Distributor Network",
+        "B2C"
+      ],
+      "posted": "3 days ago",
+      "description": "Manage dealer and distribution networks across West India, expand market share, and lead a team of 15+ frontline sales executives.",
+      "createdAt": "2026-08-18T09:00:00.000Z"
+    }
+  ],
+  "applications": [
+    {
+      "id": "app-1001",
+      "jobTitle": "Senior Telecalling Officer - BFSI",
+      "fullName": "Kunal Sharma",
+      "email": "kunal.sharma@example.com",
+      "phone": "+91 98251 44520",
+      "currentCTC": "₹3.8 LPA",
+      "noticePeriod": "15 Days",
+      "linkedin": "https://linkedin.com/in/kunal-sharma",
+      "resumeFilename": "kunal_sharma_resume.pdf",
+      "status": "Shortlisted",
+      "submittedAt": "2026-08-21T07:30:00.000Z"
+    },
+    {
+      "id": "app-1002",
+      "jobTitle": "Full Stack Java Developer",
+      "fullName": "Meera Joshi",
+      "email": "meera.j@example.com",
+      "phone": "+91 97240 18833",
+      "currentCTC": "₹12.5 LPA",
+      "noticePeriod": "30 Days",
+      "linkedin": "https://linkedin.com/in/meera-joshi-tech",
+      "resumeFilename": "meera_joshi_cv.pdf",
+      "status": "New",
+      "submittedAt": "2026-08-21T08:45:00.000Z"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cand-2001",
+      "fullName": "Rahul Desai",
+      "phone": "+91 99099 23114",
+      "email": "rahul.desai@example.com",
+      "city": "Ahmedabad",
+      "domain": "bfsi",
+      "experience": "3-5",
+      "currentCTC": "₹5.5 LPA",
+      "expectedCTC": "₹8.0 LPA",
+      "resumeFilename": "rahul_desai_profile.pdf",
+      "status": "New",
+      "submittedAt": "2026-08-21T06:15:00.000Z"
+    },
+    {
+      "id": "cand-2002",
+      "fullName": "Pooja Vaghela",
+      "phone": "+91 98980 77612",
+      "email": "pooja.v@example.com",
+      "city": "Surat",
+      "domain": "hr",
+      "experience": "1-3",
+      "currentCTC": "₹3.6 LPA",
+      "expectedCTC": "₹5.0 LPA",
+      "resumeFilename": "pooja_hr_cv.pdf",
+      "status": "New",
+      "submittedAt": "2026-08-21T09:10:00.000Z"
+    }
+  ],
+  "employer_leads": [
+    {
+      "id": "emp-1787330092732",
+      "contactName": "John Doe",
+      "designation": "CEO / Founder",
+      "companyName": "Acme Corp",
+      "email": "john@acme.com",
+      "phone": "+91 99999 88888",
+      "location": "Remote",
+      "serviceType": "Permanent Recruitment",
+      "openCount": "5",
+      "roleDetails": "We need 5 Senior Software Engineers with React and Node.js skills.",
+      "status": "New",
+      "submittedAt": "2026-08-21T16:34:52.733Z"
+    },
+    {
+      "id": "emp-3001",
+      "contactName": "Ashish Trivedi",
+      "designation": "Director - Human Capital",
+      "companyName": "Equitas FinServe Ltd",
+      "email": "ashish.trivedi@equitasfs.com",
+      "phone": "+91 98240 55991",
+      "location": "Ahmedabad / Rajkot",
+      "serviceType": "Permanent Recruitment",
+      "openCount": "8",
+      "roleDetails": "Urgent requirement for 8 Branch Sales Managers in Gujarat territory with minimum 3 years banking sales experience.",
+      "status": "In Progress",
+      "submittedAt": "2026-08-21T05:20:00.000Z"
+    },
+    {
+      "id": "emp-3002",
+      "contactName": "Siddharth Rao",
+      "designation": "VP - Technology",
+      "companyName": "CloudScale Systems",
+      "email": "siddharth@cloudscalesys.io",
+      "phone": "+91 98450 11200",
+      "location": "Remote / Pune",
+      "serviceType": "Executive Search",
+      "openCount": "2",
+      "roleDetails": "Looking for Principal Cloud Architects with AWS/GCP and Kubernetes background.",
+      "status": "New",
+      "submittedAt": "2026-08-21T08:00:00.000Z"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "cnt-4001",
+      "name": "Bhavik Parekh",
+      "phone": "+91 97129 88301",
+      "email": "bhavik.parekh@gmail.com",
+      "subject": "Payroll & Staffing",
+      "message": "We have 45 warehouse executives and want to outsource monthly payroll and EPF compliance. Please share your commercial proposal.",
+      "submittedAt": "2026-08-21T09:05:00.000Z",
+      "status": "New"
+    }
+  ]
+}
